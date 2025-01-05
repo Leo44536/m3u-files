@@ -9,17 +9,19 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="TV - Fernsehen FREE",DELUXE MUSIC
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png" tvg-id="DeLuxeMusic.de" group-title="TV - Fernsehen FREE",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Phoenix Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png" tvg-id="Phoenix.de" group-title="Germany",Phoenix Ⓖ
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" group-title="Germany",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="ChannelOne.ru" group-title="Russia",Первый канал
+#EXTINF:-1 tvg-name="KiKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kika_2012.svg" tvg-id="Kika.de" group-title="TV - Fernsehen FREE",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="Perviy Kanal (RU)" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="ChannelOne.ru" group-title="Russia",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Mir.ru" group-title="Russia",Мир
+#EXTINF:-1 tvg-name="Myr (RU)" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Mir.ru" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" tvg-id="TelekanalZvezda.ru" group-title="Russia",Звезда
+#EXTINF:-1 tvg-name="Zvjesda (RU)" tvg-logo="https://i.imgur.com/c0L0ncA.png" tvg-id="TelekanalZvezda.ru" group-title="Russia",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png" tvg-id="KCTV.kp" group-title="North Korea",KCTV
+#EXTINF:-1 tvg-name="KCTV (NK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png" tvg-id="KCTV.kp" group-title="North Korea",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
