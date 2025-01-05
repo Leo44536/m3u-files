@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-name="Perviy Kanal (RU)" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="Первый канал.ru" group-title="Russia",Первый канал
+#EXTINF:-1 tvg-name="Perviy Kanal (RU)" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="Первый канал.ru" group-title="Russia",Perviy Kanal (RU)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-name="Myr (RU)" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Мир.ru" group-title="Russia",Мир
+#EXTINF:-1 tvg-name="Mir (RU)" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Мир.ru" group-title="Russia",Mir (RU)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="Zvjesda (RU)" tvg-logo="https://i.imgur.com/c0L0ncA.png" tvg-id="Звезда.ru" group-title="Russia",Звезда
+#EXTINF:-1 tvg-name="Zvjesda (RU)" tvg-logo="https://i.imgur.com/c0L0ncA.png" tvg-id="Звезда.ru" group-title="Russia",Zvjesda (RU)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
